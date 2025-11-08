@@ -27,16 +27,6 @@ This project is a comprehensive, multi-page Streamlit web application for analyz
 
 ---
 
-## 📸 Screenshots
-
-It's highly recommended to add a GIF or a few screenshots of your app in action. A visual demo is the best way to showcase your work!
-
-``
-
-``
-
----
-
 ## 🛠️ Technologies & Libraries
 
 * **Core App:** Streamlit
@@ -117,6 +107,3 @@ This app is ready to be deployed\! The easiest way is to use **Streamlit Communi
 ## 🙏 Acknowledgements
 
 This project was built as part of the Data Analytics internship program at **Amdox Technologies**, based on the provided project description for "Time Series Analysis with Cryptocurrency."
-
-```
-```
